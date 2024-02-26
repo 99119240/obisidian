@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "obisidian", "obisidian.csproj", "{829C2721-1E89-4547-BCB4-58709959689F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829C2721-1E89-4547-BCB4-58709959689F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829C2721-1E89-4547-BCB4-58709959689F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829C2721-1E89-4547-BCB4-58709959689F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829C2721-1E89-4547-BCB4-58709959689F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE13BCB5-1AF8-4DE3-86A7-22EA1B494DD9}
+	EndGlobalSection
+EndGlobal
